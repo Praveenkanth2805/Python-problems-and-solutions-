@@ -4,11 +4,11 @@
 
 #multilevel inheritance
 
-''' A <= B <= C '''
+''' A <= B <= D '''
 
 #multiple inheritance
 
-''' A , B <= C '''
+''' C , D <= E '''
 
 #hirearchical inheritance
 
@@ -66,3 +66,7 @@ s.show()
 
 p=pet()
 p.disp()
+
+#c=college()
+#c.comp_sci()
+
