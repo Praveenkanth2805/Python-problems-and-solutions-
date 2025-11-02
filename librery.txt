@@ -1,0 +1,3 @@
+python|to learn python basics, author is local author
+c++|to learn cpp from basics
+oops with cpp|object oriented concept in cpp
